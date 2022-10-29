@@ -1,27 +1,33 @@
-# package_name
+# operacoes_matematicas
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package operacoes_matematicas is used to:
+	- sum, subtraction;
+	- multiplication, division.
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install operacoes_matematicas
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
+from operaçoes matematicas  import multiplicacao_e_divisao
 file1_name.my_function()
+multiplicacao_e_divisao.multiplica_dois_numeros(a,b)
+
+or
+ 
+multiplicacao_e_divisao.divide_dois_numeros(a,b)
+
 ```
 
 ## Author
-My_name
+Ricardo Duarte
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
